@@ -31,8 +31,8 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
+global.botname = "Ericstarbot" //namabot kalian
+global.ownername = "Ericstar" //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
 global.myweb2 = "https://s.id/BOTGITHUB" //bebas
@@ -40,9 +40,9 @@ global.email = "mdsandaru2@gmail.com" //bebas
 global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
 global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.owner = ["9155556447", "2349155556447"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "9155556447" // nomor wa kalian
+global.ownernomerr = "+2349155556447" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -132,7 +132,7 @@ global.mess = {
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
    wait: '⏳ *Loding*',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-   example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+   example1: 'Welcome @user to  @subje you are welcome please read the group description Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
